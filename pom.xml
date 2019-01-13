@@ -17,7 +17,7 @@ limitations under the License.
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.akiraly.reusable-poms</groupId>
-	<artifactId>sparkjava-war-example</artifactId>
+	<artifactId>war-sample</artifactId>
 	<version>5-SNAPSHOT</version>
 	<packaging>war</packaging>
 
