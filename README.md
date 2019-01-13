@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sparkjava-war-example
 Build war with maven and sparkjava framework
 
@@ -10,3 +11,6 @@ Steps:
 5. Start Tomcat by running `bin\startup.bat` (or `bin\startaup.sh` for Linux)
 5. Tomcat will automatically deploy the war
 6. Open [http://localhost:8080/sparkjava-hello-world-1.0/hello](http://localhost:8080/sparkjava-hello-world-1.0/hello) in your browser
+=======
+# sparkjava-war-example
+>>>>>>> 0674bec9a76dffb33ee32f2ce9c5ead841eac2fe
