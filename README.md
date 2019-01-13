@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # sparkjava-war-example
 Build war with maven and sparkjava framework
 
@@ -14,3 +15,6 @@ Steps:
 =======
 # sparkjava-war-example
 >>>>>>> 0674bec9a76dffb33ee32f2ce9c5ead841eac2fe
+=======
+# war-sample
+>>>>>>> a1d8608a42ee4695e8e44affeabbf698bfd4a111
